@@ -1,0 +1,22 @@
+✅ 1. Użycie terminala – polecenie zip
+
+zip -r nazwa_archiwum.zip nazwa_folderu/
+
+Co to znaczy:
+
+zip – program do tworzenia archiwów ZIP,
+-r – oznacza „rekurencyjnie” (czyli z podfolderami),
+nazwa_archiwum.zip – to wynikowy plik ZIP,
+nazwa_folderu/ – folder, który chcesz spakować.
+
+💡 Przykład:
+
+zip -r projekty.zip projekty/
+
+✅ 3. Alternatywnie – interfejs graficzny:
+
+Otworzyć menedżer plików.
+Kliknąć prawym przyciskiem myszy na folder.
+Wybrać „Kompresuj...”.
+Wybrać format .zip.
+Kliknąć „Utwórz”.
