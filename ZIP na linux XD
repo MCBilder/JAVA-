@@ -13,7 +13,7 @@ nazwa_folderu/ – folder, który chcesz spakować.
 
 zip -r projekty.zip projekty/
 
-✅ 3. Alternatywnie – interfejs graficzny:
+✅ 3. Alternatywnie – interfejs graficzny:   [ nwm czy dziala xd ]
 
 Otworzyć menedżer plików.
 Kliknąć prawym przyciskiem myszy na folder.
